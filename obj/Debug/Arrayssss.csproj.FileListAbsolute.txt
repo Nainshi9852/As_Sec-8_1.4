@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\Arrayssss\Arrayssss\bin\Debug\Arrayssss.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\Arrayssss\Arrayssss\bin\Debug\Arrayssss.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\Arrayssss\Arrayssss\bin\Debug\Arrayssss.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\Arrayssss\Arrayssss\obj\Debug\Arrayssss.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\Arrayssss\Arrayssss\obj\Debug\Arrayssss.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\Arrayssss\Arrayssss\obj\Debug\Arrayssss.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\Arrayssss\Arrayssss\obj\Debug\Arrayssss.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\Arrayssss\Arrayssss\obj\Debug\Arrayssss.pdb
